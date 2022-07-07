@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061261650351",
+    "firebase_url": "https://online-offline-6b636.firebaseio.com",
+    "project_id": "online-offline-6b636",
+    "storage_bucket": "online-offline-6b636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061261650351:android:dbf260a42bcf882b8f675a",
+        "android_client_info": {
+          "package_name": "com.shailu.onlineoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061261650351-s8c5jhr0g90n34jv1mh0cotkpjc3176a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28xw9bDDRn1refPRp4hIyoyPBj_J8HK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061261650351-s8c5jhr0g90n34jv1mh0cotkpjc3176a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
